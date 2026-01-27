@@ -9,7 +9,7 @@
                     "optional": ["any"]
                 }
             },
-            "to": [{ "mouse_key": { "vertical_wheel": -64 } }],
+            "to": [{ "mouse_key": { "vertical_wheel": -32 } }],
             "type": "basic"
         },
         {
@@ -20,7 +20,7 @@
                     "optional": ["any"]
                 }
             },
-            "to": [{ "mouse_key": { "vertical_wheel": 64 } }],
+            "to": [{ "mouse_key": { "vertical_wheel": 32 } }],
             "type": "basic"
         },
         {
@@ -31,7 +31,7 @@
                     "optional": ["any"]
                 }
             },
-            "to": [{ "mouse_key": { "horizontal_wheel": 64 } }],
+            "to": [{ "mouse_key": { "horizontal_wheel": 32 } }],
             "type": "basic"
         },
         {
@@ -42,7 +42,7 @@
                     "optional": ["any"]
                 }
             },
-            "to": [{ "mouse_key": { "horizontal_wheel": -64 } }],
+            "to": [{ "mouse_key": { "horizontal_wheel": -32 } }],
             "type": "basic"
         },
         {
@@ -119,7 +119,7 @@
                     "optional": ["any"]
                 }
             },
-            "to": [{ "mouse_key": { "vertical_wheel": -64 } }],
+            "to": [{ "mouse_key": { "vertical_wheel": -32 } }],
             "type": "basic"
         },
         {
@@ -130,7 +130,7 @@
                     "optional": ["any"]
                 }
             },
-            "to": [{ "mouse_key": { "vertical_wheel": 64 } }],
+            "to": [{ "mouse_key": { "vertical_wheel": 32 } }],
             "type": "basic"
         },
         {
@@ -141,7 +141,7 @@
                     "optional": ["any"]
                 }
             },
-            "to": [{ "mouse_key": { "horizontal_wheel": 64 } }],
+            "to": [{ "mouse_key": { "horizontal_wheel": 32 } }],
             "type": "basic"
         },
         {
@@ -152,7 +152,7 @@
                     "optional": ["any"]
                 }
             },
-            "to": [{ "mouse_key": { "horizontal_wheel": -64 } }],
+            "to": [{ "mouse_key": { "horizontal_wheel": -32 } }],
             "type": "basic"
         },
         {
