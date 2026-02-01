@@ -3,3 +3,5 @@
   d+f: [m | tab]
   o+p: [c | l]
   e+r: [c | w]
+  ;: [; , right_control ]
+  quote: [ quote , left_option ]
