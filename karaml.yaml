@@ -2,6 +2,7 @@
   j+k: [escape, button1]
   d+f: [m | tab]
   o+p: [c | l]
-  e+r: [c | w]
+  #e+r: [c | w]
   ;: [; , right_control ]
   quote: [ quote , left_option ]
+  j+l: [ m | l ] # cmd l to enter address bar

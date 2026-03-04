@@ -1,7 +1,17 @@
  {
     "description": "Left ctrl + hjkl to arrow keys Vim",
     "manipulators": [
-        {
+      {
+            "from": { "key_code": "caps_lock" },
+            "to": [
+              {
+                "key_code": "right_control",
+                "lazy": true
+              }
+            ],
+            "type": "basic"
+      },
+      {
             "from": {
                 "key_code": "h",
                 "modifiers": {
@@ -9,7 +19,12 @@
                     "optional": ["any"]
                 }
             },
-            "to": [{ "key_code": "left_arrow" }],
+            "to": [
+              {
+              "key_code": "left_arrow",
+              "modifiers": ["any"]
+              }
+            ],
             "type": "basic"
         },
         {
